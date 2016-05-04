@@ -22,3 +22,7 @@ Program for writing to Newhaven fill_displaylay 2.4" TFT with ST7789S controller
 ### Processing ###
 
 Generates a 240x320 window (the size of a TFT LCD [NHD-2.4-240320CF-CTXI]) When left mouse button is pressed inside the window it generates white points and send that coordinate (X and Y value of mouse pointer) through a COM port.
+
+# Author #
+Fahad Mirza
+fahadmirza80@yahoo.com
